@@ -1,0 +1,14 @@
+{
+  "name": "dna-signing-tool",
+  "version": "1.0.0",
+  "description": "Signing tool for the DNA PROTOCOL",
+  "main": "sign.js",
+  "scripts": {
+    "test": "node sign.js"
+  },
+  "author": "Sergio Valdés Valdés",
+  "license": "ISC",
+  "dependencies": {
+    "elliptic": "^6.5.4"
+  }
+}
